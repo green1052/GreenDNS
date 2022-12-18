@@ -21,10 +21,9 @@ https://raw.githubusercontent.com/green1052/GreenList/master/dns.txt
 
 ## 기능
 
-광고, 추척, 피싱, 멀웨어 같은 사이트를 DNS단에서 필터링하며
+1. 광고, 추척, 피싱, 멀웨어 같은 사이트 불필요한 사이트를 차단합니다.
 
-망 사용료 문제로 Cloudflare Enterprise 요금제를 사용하지 않는 웹사이트가 한국 서버가 아닌 다른 나라 서버를 경유하는 걸 방지합니다.[^1][^2]
-
+2. 망 사용료 문제로 Cloudflare Enterprise 요금제를 사용하지 않는 웹사이트가 한국 서버가 아닌 다른 나라 서버를 경유하는 걸 방지합니다.[^1][^2]
 
 ## 정책
 
