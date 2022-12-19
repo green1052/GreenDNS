@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>DNSSettings</key>
+				<dict>
+					<key>DNSProtocol</key>
+					<string>HTTPS</string>
+					<key>ServerURL</key>
+					<string>https://server1.greendns.green1052.com/dns-query</string>
+				</dict>
+				<key>PayloadDescription</key>
+				<string>Configures device to use AdGuard Home</string>
+				<key>PayloadDisplayName</key>
+				<string>server1.greendns.green1052.com DoH</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.dnsSettings.managed.210704a3-1149-43df-9cad-bab537423863</string>
+				<key>PayloadType</key>
+				<string>com.apple.dnsSettings.managed</string>
+				<key>PayloadUUID</key>
+				<string>b26fe1c5-1bd1-46a5-95fa-bb8ed2235677</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+		</array>
+		<key>PayloadDescription</key>
+		<string>Adds AdGuard Home to macOS Big Sur and iOS 14 or newer systems</string>
+		<key>PayloadDisplayName</key>
+		<string>server1.greendns.green1052.com DoH</string>
+		<key>PayloadIdentifier</key>
+		<string>91cf52ec-63c4-4f5b-a772-73f18103705c</string>
+		<key>PayloadRemovalDisallowed</key>
+		<false/>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>3667a74b-899a-4cb9-94a3-047033bbff1a</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+	</dict>
+</plist>
