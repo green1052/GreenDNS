@@ -12,6 +12,12 @@
 |  DoH  | https://server1.greendns.green1052.com/dns-query |   Cloudflare DNS  | Oracle Cloud Infrastructure |
 |  DoQ  |       quic://server1.greendns.green1052.com      |   Cloudflare DNS  | Oracle Cloud Infrastructure |
 
+#### Apple Profile
+
+DoT: https://raw.githubusercontent.com/green1052/GreenDNS/main/config/server1/dot.mobileconfig
+
+DoH: https://raw.githubusercontent.com/green1052/GreenDNS/main/config/server1/doh.mobileconfig
+
 ## DNS 차단 목록
 
 ```
