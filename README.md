@@ -3,12 +3,12 @@
 
 ## 주소
 
-|  종류 |                   주소                   | 업스트림 DNS 서버 |            소재지           |
-|:-----:|:----------------------------------------:|:-----------------:|:---------------------------:|
-| Plain |               152.70.248.32              |   Cloudflare DNS  | Oracle Cloud Infrastructure |
-|  DoT  |       tls://greendns.green1052.com       |   Cloudflare DNS  | Oracle Cloud Infrastructure |
-|  DoH  | https://greendns.green1052.com/dns-query |   Cloudflare DNS  | Oracle Cloud Infrastructure |
-|  DoQ  |       quic://greendns.green1052.com      |   Cloudflare DNS  | Oracle Cloud Infrastructure |
+|  종류 |                       주소                       | 업스트림 DNS 서버 |            소재지           |
+|:-----:|:------------------------------------------------:|:-----------------:|:---------------------------:|
+| Plain |                   152.70.248.32                  |   Cloudflare DNS  | Oracle Cloud Infrastructure |
+|  DoT  |       tls://server1.greendns.green1052.com       |   Cloudflare DNS  | Oracle Cloud Infrastructure |
+|  DoH  | https://server1.greendns.green1052.com/dns-query |   Cloudflare DNS  | Oracle Cloud Infrastructure |
+|  DoQ  |       quic://server1.greendns.green1052.com      |   Cloudflare DNS  | Oracle Cloud Infrastructure |
 
 ## DNS 차단 목록
 
