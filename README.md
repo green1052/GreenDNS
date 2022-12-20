@@ -39,5 +39,12 @@ https://raw.githubusercontent.com/green1052/GreenList/master/dns.txt
 쿼리 로그는 익명으로 저장되며
 24시간 마다 삭제됩니다.
 
+## On-promiss
+
+개인정보등 여러 이유로 GreenDNS를 신뢰할 수 없다면
+
+[AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)에
+위 DNS 차단 목록을 적용하면 똑같이 작동하는 개인 DNS 서버를 만들 수 있습니다.
+
 [^1]: 해당 필터는 [GreenList](https://github.com/green1052/GreenList)에서 관리됩니다.
 [^2]: https://namu.wiki/w/Cloudflare#s-4
