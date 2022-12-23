@@ -7,10 +7,10 @@
 
 |  종류 |                       주소                       |   업스트림 DNS 서버  |            소재지           |
 |:-----:|:------------------------------------------------:|:--------------------:|:---------------------------:|
-| Plain |                   152.70.248.32                  | Cloudflare DNS (DoT) | Oracle Cloud Infrastructure |
-|  DoT  |       tls://server1.greendns.green1052.com       | Cloudflare DNS (DoT) | Oracle Cloud Infrastructure |
-|  DoH  | https://server1.greendns.green1052.com/dns-query | Cloudflare DNS (DoT) | Oracle Cloud Infrastructure |
-|  DoQ  |       quic://server1.greendns.green1052.com      | Cloudflare DNS (DoT) | Oracle Cloud Infrastructure |
+| Plain |                   152.70.248.32                  | Cloudflare DNS (DoH) | Oracle Cloud Infrastructure |
+|  DoT  |       tls://server1.greendns.green1052.com       | Cloudflare DNS (DoH) | Oracle Cloud Infrastructure |
+|  DoH  | https://server1.greendns.green1052.com/dns-query | Cloudflare DNS (DoH) | Oracle Cloud Infrastructure |
+|  DoQ  |       quic://server1.greendns.green1052.com      | Cloudflare DNS (DoH) | Oracle Cloud Infrastructure |
 
 #### Apple Profile
 
