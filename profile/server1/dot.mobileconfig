@@ -17,11 +17,11 @@
 				<key>PayloadDisplayName</key>
 				<string>server1.greendns.green1052.com DoT</string>
 				<key>PayloadIdentifier</key>
-				<string>com.apple.dnsSettings.managed.1f29fc07-53c3-4a20-bdb1-f8954a5e760a</string>
+				<string>com.apple.dnsSettings.managed.b99868fd-60c4-404a-855b-abf9b02249fc</string>
 				<key>PayloadType</key>
 				<string>com.apple.dnsSettings.managed</string>
 				<key>PayloadUUID</key>
-				<string>b50a38d5-0a5f-4a04-95bd-795c205051f6</string>
+				<string>49c2b6ec-7535-4ec1-87a6-9d0b8552f350</string>
 				<key>PayloadVersion</key>
 				<integer>1</integer>
 			</dict>
@@ -31,13 +31,13 @@
 		<key>PayloadDisplayName</key>
 		<string>server1.greendns.green1052.com DoT</string>
 		<key>PayloadIdentifier</key>
-		<string>ebd0c7e9-4e7c-4066-b07f-2974477a514e</string>
+		<string>ad755855-5c77-4a5c-8177-ee9ed47c21a8</string>
 		<key>PayloadRemovalDisallowed</key>
 		<false/>
 		<key>PayloadType</key>
 		<string>Configuration</string>
 		<key>PayloadUUID</key>
-		<string>9b7516ac-9108-4389-8443-a2846b59cdce</string>
+		<string>47f6186a-f9bd-453f-8090-c5b4eff0cb76</string>
 		<key>PayloadVersion</key>
 		<integer>1</integer>
 	</dict>
