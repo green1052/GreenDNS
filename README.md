@@ -7,6 +7,21 @@
 
 ## 서버 목록
 
+### 자동
+
+|  종류 	|                        주소                       	|
+|:-----:	|:-------------------------------------------------:	|
+| Plain 	|                         X                         	|
+|  DoT  	|       tls://anonymous.adguard.green1052.com       	|
+|  DoH  	| https://adguard.green1052.com/dns-query/anonymous 	|
+|  DoQ  	|       quic://anonymous.adguard.green1052.com      	|
+
+#### Apple Profile
+
+DoT: https://raw.githubusercontent.com/green1052/GreenDNS/main/config/dot.mobileconfig
+
+DoH: https://raw.githubusercontent.com/green1052/GreenDNS/main/config/doh.mobileconfig
+
 ### 1번 서버
 
 |  종류 	|                            주소                           	|   업스트림 DNS 서버  	|            소재지           	|
