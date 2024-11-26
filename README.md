@@ -37,7 +37,7 @@ DoT: https://raw.githubusercontent.com/green1052/GreenDNS/main/config/server2/do
 
 DoH: https://raw.githubusercontent.com/green1052/GreenDNS/main/config/server2/doh.mobileconfig
 
-## DNS 차단 목록
+## 필터 목록
 
 ```
 https://raw.githubusercontent.com/green1052/GreenList/master/dns.txt
