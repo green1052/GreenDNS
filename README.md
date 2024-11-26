@@ -31,6 +31,8 @@ DoH: https://raw.githubusercontent.com/green1052/GreenDNS/main/config/server1/do
 |  DoH  	| https://server2.adguard.green1052.com/dns-query/anonymous 	| Cloudflare DNS (DoH) 	| Oracle Cloud Infrastructure 	|
 |  DoQ  	|      quic://anonymous.server2.adguard.green1052.com       	| Cloudflare DNS (DoH) 	| Oracle Cloud Infrastructure 	|
 
+#### Apple Profile
+
 DoT: https://raw.githubusercontent.com/green1052/GreenDNS/main/config/server2/dot.mobileconfig
 
 DoH: https://raw.githubusercontent.com/green1052/GreenDNS/main/config/server2/doh.mobileconfig
