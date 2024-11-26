@@ -12,9 +12,9 @@
 |  종류 	|                            주소                           	|   업스트림 DNS 서버  	|            소재지           	|   	|
 |:-----:	|:---------------------------------------------------------:	|:--------------------:	|:---------------------------:	|---	|
 | Plain 	|                             X                             	| Cloudflare DNS (DoH) 	| Oracle Cloud Infrastructure 	|   	|
-|  DoT  	|       tls:///anonymous.server1.adguard.green1052.com      	| Cloudflare DNS (DoH) 	| Oracle Cloud Infrastructure 	|   	|
+|  DoT  	|       tls://anonymous.server1.adguard.green1052.com       	| Cloudflare DNS (DoH) 	| Oracle Cloud Infrastructure 	|   	|
 |  DoH  	| https://server1.adguard.green1052.com/dns-query/anonymous 	| Cloudflare DNS (DoH) 	| Oracle Cloud Infrastructure 	|   	|
-|  DoQ  	|      quic:///anonymous.server1.adguard.green1052.com      	| Cloudflare DNS (DoH) 	| Oracle Cloud Infrastructure 	|   	|
+|  DoQ  	|      quic://anonymous.server1.adguard.green1052.com       	| Cloudflare DNS (DoH) 	| Oracle Cloud Infrastructure 	|   	|
 
 #### Apple Profile
 
@@ -27,9 +27,9 @@ DoH: https://raw.githubusercontent.com/green1052/GreenDNS/main/config/server1/do
 |  종류 	|                            주소                           	|   업스트림 DNS 서버  	|            소재지           	|   	|
 |:-----:	|:---------------------------------------------------------:	|:--------------------:	|:---------------------------:	|---	|
 | Plain 	|                             X                             	| Cloudflare DNS (DoH) 	| Oracle Cloud Infrastructure 	|   	|
-|  DoT  	|       tls:///anonymous.server2.adguard.green1052.com      	| Cloudflare DNS (DoH) 	| Oracle Cloud Infrastructure 	|   	|
+|  DoT  	|       tls://anonymous.server2.adguard.green1052.com       	| Cloudflare DNS (DoH) 	| Oracle Cloud Infrastructure 	|   	|
 |  DoH  	| https://server2.adguard.green1052.com/dns-query/anonymous 	| Cloudflare DNS (DoH) 	| Oracle Cloud Infrastructure 	|   	|
-|  DoQ  	|      quic:///anonymous.server2.adguard.green1052.com      	| Cloudflare DNS (DoH) 	| Oracle Cloud Infrastructure 	|   	|
+|  DoQ  	|      quic://anonymous.server2.adguard.green1052.com       	| Cloudflare DNS (DoH) 	| Oracle Cloud Infrastructure 	|   	|
 
 DoT: https://raw.githubusercontent.com/green1052/GreenDNS/main/config/server2/dot.mobileconfig
 
