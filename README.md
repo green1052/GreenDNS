@@ -9,12 +9,12 @@
 
 ### 1번 서버
 
-|  종류 |                       주소                       |   업스트림 DNS 서버  |            소재지           |
-|:-----:|:------------------------------------------------:|:--------------------:|:---------------------------:|
-| Plain |                   152.70.248.32                  | Cloudflare DNS (DoH) | Oracle Cloud Infrastructure |
-|  DoT  |       tls://server1.greendns.green1052.com       | Cloudflare DNS (DoH) | Oracle Cloud Infrastructure |
-|  DoH  | https://server1.greendns.green1052.com/dns-query | Cloudflare DNS (DoH) | Oracle Cloud Infrastructure |
-|  DoQ  |       quic://server1.greendns.green1052.com      | Cloudflare DNS (DoH) | Oracle Cloud Infrastructure |
+|  종류 	|                            주소                           	|   업스트림 DNS 서버  	|            소재지           	|   	|
+|:-----:	|:---------------------------------------------------------:	|:--------------------:	|:---------------------------:	|---	|
+| Plain 	|                             X                             	| Cloudflare DNS (DoH) 	| Oracle Cloud Infrastructure 	|   	|
+|  DoT  	|       tls:///anonymous.server1.adguard.green1052.com      	| Cloudflare DNS (DoH) 	| Oracle Cloud Infrastructure 	|   	|
+|  DoH  	| https://server1.adguard.green1052.com/dns-query/anonymous 	| Cloudflare DNS (DoH) 	| Oracle Cloud Infrastructure 	|   	|
+|  DoQ  	|      quic:///anonymous.server1.adguard.green1052.com      	| Cloudflare DNS (DoH) 	| Oracle Cloud Infrastructure 	|   	|
 
 #### Apple Profile
 
@@ -22,13 +22,26 @@ DoT: https://raw.githubusercontent.com/green1052/GreenDNS/main/config/server1/do
 
 DoH: https://raw.githubusercontent.com/green1052/GreenDNS/main/config/server1/doh.mobileconfig
 
+### 2번 서버
+
+|  종류 	|                            주소                           	|   업스트림 DNS 서버  	|            소재지           	|   	|
+|:-----:	|:---------------------------------------------------------:	|:--------------------:	|:---------------------------:	|---	|
+| Plain 	|                             X                             	| Cloudflare DNS (DoH) 	| Oracle Cloud Infrastructure 	|   	|
+|  DoT  	|       tls:///anonymous.server2.adguard.green1052.com      	| Cloudflare DNS (DoH) 	| Oracle Cloud Infrastructure 	|   	|
+|  DoH  	| https://server2.adguard.green1052.com/dns-query/anonymous 	| Cloudflare DNS (DoH) 	| Oracle Cloud Infrastructure 	|   	|
+|  DoQ  	|      quic:///anonymous.server2.adguard.green1052.com      	| Cloudflare DNS (DoH) 	| Oracle Cloud Infrastructure 	|   	|
+
+DoT: https://raw.githubusercontent.com/green1052/GreenDNS/main/config/server2/dot.mobileconfig
+
+DoH: https://raw.githubusercontent.com/green1052/GreenDNS/main/config/server2/doh.mobileconfig
+
 ## DNS 차단 목록
 
 ```
-# filter list: https://github.com/hagezi/dns-blocklists/blob/main/usedsources.md#proplus
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt
-
 https://raw.githubusercontent.com/green1052/GreenList/master/dns.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareAdGuardHome.txt
 ```
 
 ## 기능
