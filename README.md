@@ -75,8 +75,6 @@ https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20vers
 
 ## On-promiss
 
-개인정보등 여러 이유로 GreenDNS를 신뢰할 수 없다면
-
 [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome)에
 위 DNS 차단 목록을 적용하면 똑같이 작동하는 개인 DNS 서버를 만들 수 있습니다.
 
