@@ -18,9 +18,9 @@
 
 #### Apple Profile
 
-DoT: https://raw.githubusercontent.com/green1052/GreenDNS/main/config/dot.mobileconfig
+DoT: https://raw.githubusercontent.com/green1052/GreenDNS/refs/heads/main/profile/dot.mobileconfig
 
-DoH: https://raw.githubusercontent.com/green1052/GreenDNS/main/config/doh.mobileconfig
+DoH: https://raw.githubusercontent.com/green1052/GreenDNS/refs/heads/main/profile/doh.mobileconfig
 
 ### 1번 서버
 
@@ -33,9 +33,9 @@ DoH: https://raw.githubusercontent.com/green1052/GreenDNS/main/config/doh.mobile
 
 #### Apple Profile
 
-DoT: https://raw.githubusercontent.com/green1052/GreenDNS/main/config/server1/dot.mobileconfig
+DoT: https://raw.githubusercontent.com/green1052/GreenDNS/refs/heads/main/profile/server1/dot.mobileconfig
 
-DoH: https://raw.githubusercontent.com/green1052/GreenDNS/main/config/server1/doh.mobileconfig
+DoH: https://raw.githubusercontent.com/green1052/GreenDNS/refs/heads/main/profile/server1/doh.mobileconfig
 
 ### 2번 서버
 
@@ -48,9 +48,9 @@ DoH: https://raw.githubusercontent.com/green1052/GreenDNS/main/config/server1/do
 
 #### Apple Profile
 
-DoT: https://raw.githubusercontent.com/green1052/GreenDNS/main/config/server2/dot.mobileconfig
+DoT: https://raw.githubusercontent.com/green1052/GreenDNS/refs/heads/main/profile/server2/dot.mobileconfig
 
-DoH: https://raw.githubusercontent.com/green1052/GreenDNS/main/config/server2/doh.mobileconfig
+DoH: https://raw.githubusercontent.com/green1052/GreenDNS/refs/heads/main/profile/server2/doh.mobileconfig
 
 ## 필터 목록
 
