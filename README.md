@@ -58,6 +58,7 @@ DoH: https://raw.githubusercontent.com/green1052/GreenDNS/refs/heads/main/profil
 https://raw.githubusercontent.com/green1052/GreenList/master/dns.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareAdGuardHome.txt
 ```
 
 ## 기능
